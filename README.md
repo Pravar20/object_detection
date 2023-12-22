@@ -1,5 +1,3 @@
-﻿*\*\*Everything is a copy, change them however you want\*\**
-
 (I’ll add more links if I find some, otherwise whatever comes up on a search also works)
 
 - YOLOv7 pre-trained model documentation -> is basically what you’ll want to do, use the pre-trained model on new data to detect objects.
